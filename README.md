@@ -33,7 +33,7 @@ Record your answers in `ANSWERS.md` as you work. Include the names of everyone w
 
    Confirm that your program builds and runs. In your answers, show the output that your program produced.
 
-3. Add a template header file and a template source file to this repo, and in them declare and define a function template that is named something other than `move` and is based on the code shown in the lecture slides to illustrate the implementation of `std::move`. Make sure that the template header file includes the template source file.
+3. Add a template header file and a template source file to this repo, and in them declare and define a function template that is named something other than `move` and is based on the implementation of `std::move` described in the assigned reading for this module (chapter 16.2). Make sure that the template header file includes the template source file.
 
    Update the `Makefile` with the names of those files in the appropriate lines, and update the source file for your `main` function so that it:
 
